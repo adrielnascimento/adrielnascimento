@@ -12,3 +12,5 @@
     <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="python">
     <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="python">
 </div> 
+
+### Atualmante estudando bastante em busca de oportunidades no mercado de trabalho
