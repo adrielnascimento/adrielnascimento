@@ -14,6 +14,7 @@ Além da graduação, também possuo formação técnica em Contabilidade pela U
 - **SQL**: Manipulação e análise de dados em bancos de dados.
 - **Python**: Desenvolvimento de scripts e análise de dados.
 - **Excel**: Organização e visualização de dados.
+- **Power BI**: criação de dashboards.
 
 ---
 
