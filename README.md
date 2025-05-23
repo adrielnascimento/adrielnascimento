@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Olá! Me chamo [Antonio Adriel](https://www.linkedin.com/in/adriel-nascimentons7/), tenho 20 anos e sou natural do Ceará. Sou formado em Análise e Desenvolvimento de Sistemas pela Uniasselvi (EAD), e venho me aprofundando cada vez mais na área de Dados, pela qual me identifiquei bastante.
+Olá! Me chamo [Antonio Adriel](https://www.linkedin.com/in/adriel-nascimentons7/), tenho 21 anos e sou natural do Ceará. Sou formado em Análise e Desenvolvimento de Sistemas pela Uniasselvi (EAD), e venho me aprofundando cada vez mais na área de Dados, pela qual me identifiquei bastante.
 
 Além da graduação, também possuo formação técnica em Contabilidade pela UECE (Universidade Estadual do Ceará), o que me ajuda a ter uma visão mais analítica e estratégica, especialmente em projetos com foco financeiro, como este.
 
